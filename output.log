@@ -1,0 +1,112 @@
+Current Status :ElevatorStatus{isInMove=true, currentFloor=0, direction=NONE, elevatorId=2}Time :1
+LIFT :2-->0(OPEN)
+Time :2
+LIFT :2-->0(CLOSE)
+Time :3
+LIFT :2-->1(CLOSE)
+Time :4
+LIFT :2-->2(CLOSE)
+Time :5
+LIFT :2-->3(CLOSE)
+Time :6
+LIFT :2-->4(CLOSE)
+Time :1
+LIFT :1-->1(CLOSE)
+Time :7
+LIFT :2-->5(CLOSE)
+Time :2
+LIFT :1-->2(CLOSE)
+Time :8
+LIFT :2-->6(CLOSE)
+Time :3
+LIFT :1-->3(CLOSE)
+Time :9
+LIFT :2-->7(CLOSE)
+Time :4
+LIFT :1-->4(CLOSE)
+Time :10
+LIFT :2-->8(CLOSE)
+Time :5
+LIFT :1-->5(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=5, direction=UP, elevatorId=1}Time :6
+LIFT :1-->5(OPEN)
+Time :7
+LIFT :1-->5(CLOSE)
+Time :11
+LIFT :2-->9(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=9, direction=UP, elevatorId=2}Time :12
+LIFT :2-->9(OPEN)
+Time :13
+LIFT :2-->9(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=9, direction=NONE, elevatorId=2}Time :1
+LIFT :2-->9(OPEN)
+Time :2
+LIFT :2-->9(CLOSE)
+Time :3
+LIFT :2-->8(CLOSE)
+Time :4
+LIFT :2-->7(CLOSE)
+Time :5
+LIFT :2-->6(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=6, direction=DOWN, elevatorId=2}Time :6
+LIFT :2-->6(OPEN)
+Time :7
+LIFT :2-->6(CLOSE)
+Time :1
+LIFT :1-->4(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=4, direction=DOWN, elevatorId=1}Time :2
+LIFT :1-->4(OPEN)
+Time :3
+LIFT :1-->4(CLOSE)
+Time :4
+LIFT :1-->3(CLOSE)
+Time :5
+LIFT :1-->2(CLOSE)
+Time :6
+LIFT :1-->1(CLOSE)
+Time :7
+LIFT :1-->0(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=0, direction=DOWN, elevatorId=1}Time :8
+LIFT :1-->0(OPEN)
+Time :9
+LIFT :1-->0(CLOSE)
+Time :1
+LIFT :1-->1(CLOSE)
+Time :2
+LIFT :1-->2(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=2, direction=UP, elevatorId=1}Time :3
+LIFT :1-->2(OPEN)
+Time :4
+LIFT :1-->2(CLOSE)
+Time :5
+LIFT :1-->3(CLOSE)
+Time :6
+LIFT :1-->4(CLOSE)
+Time :7
+LIFT :1-->5(CLOSE)
+Time :8
+LIFT :1-->6(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=6, direction=UP, elevatorId=1}Time :9
+LIFT :1-->6(OPEN)
+Time :10
+LIFT :1-->6(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=6, direction=NONE, elevatorId=2}Time :1
+LIFT :2-->6(OPEN)
+Time :2
+LIFT :2-->6(CLOSE)
+Time :3
+LIFT :2-->7(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=7, direction=UP, elevatorId=2}Time :4
+LIFT :2-->7(OPEN)
+Time :5
+LIFT :2-->7(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=6, direction=NONE, elevatorId=1}Time :1
+LIFT :1-->6(OPEN)
+Time :2
+LIFT :1-->6(CLOSE)
+Time :3
+LIFT :1-->7(CLOSE)
+Current Status :ElevatorStatus{isInMove=true, currentFloor=7, direction=UP, elevatorId=1}Time :4
+LIFT :1-->7(OPEN)
+Time :5
+LIFT :1-->7(CLOSE)
